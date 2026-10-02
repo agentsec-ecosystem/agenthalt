@@ -2,6 +2,8 @@
 
 > **Block / limit** — A universal kill-switch that stops a runaway agent and preserves evidence for review.
 
+[![OpenSSF Scorecard](https://api.securityscorecards.dev/projects/github.com/agentsec-ecosystem/agenthalt/badge)](https://scorecard.dev/viewer/?uri=github.com/agentsec-ecosystem/agenthalt)
+
 Part of the [agentsec-ecosystem](https://github.com/agentsec-ecosystem) — open-source,
 harness-agnostic security for AI agents.
 
